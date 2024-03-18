@@ -1,9 +1,5 @@
 # News Application
 
-## Live demo:
-
-https://app-news-three.vercel.app/
-
 ## Running with Docker
 
 ### Prerequisites
