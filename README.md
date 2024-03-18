@@ -58,7 +58,7 @@ npm install
 ## 4. Start the Application:
 
 ```sh
-npm start
+npm run start
 ```
 
 ## 5. Access the Application:
